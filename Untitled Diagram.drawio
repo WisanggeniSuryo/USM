@@ -329,19 +329,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="illr2HTrD_dLk-PM1Skf-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;DIMASUKAN&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="878.75" y="130.5" width="190" height="60" as="geometry" />
+          <mxGeometry x="878.75" y="160" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="illr2HTrD_dLk-PM1Skf-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;KERANJANG&lt;/span&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1147" y="140" width="187.5" height="40" as="geometry" />
+          <mxGeometry x="1147" y="170" width="187.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="illr2HTrD_dLk-PM1Skf-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;keranjang_no&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="384.5" y="490" width="125.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="illr2HTrD_dLk-PM1Skf-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;keranjang_no&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1110" y="45.25" width="150" height="41" as="geometry" />
+          <mxGeometry x="1110" y="73.38" width="150" height="41" as="geometry" />
         </mxCell>
         <mxCell id="illr2HTrD_dLk-PM1Skf-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;barang_id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1220" y="80" width="130" height="41" as="geometry" />
+          <mxGeometry x="1220" y="108.13" width="130" height="41" as="geometry" />
         </mxCell>
         <mxCell id="illr2HTrD_dLk-PM1Skf-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="illr2HTrD_dLk-PM1Skf-5" target="illr2HTrD_dLk-PM1Skf-3">
           <mxGeometry relative="1" as="geometry">
